@@ -13,3 +13,5 @@ Berdasarkan dataset yang saya ambil maka saya mengambil studi kasus untuk
 
 ![image](https://user-images.githubusercontent.com/76142829/176446864-d46ee560-4ae4-4ef6-a104-0694a9eb032f.png)
 
+
+[LINK VIDEO](https://drive.google.com/drive/folders/1oYY_R0OXuWNda2yxL--g-yuPyVk5UQpY?usp=sharing)
