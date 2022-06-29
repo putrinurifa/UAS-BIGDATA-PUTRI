@@ -7,6 +7,9 @@ Dataset yang digunakan yaitu data COVID-19 dengan nama file covid_19_clean_compl
 
 Berdasarkan dataset yang saya ambil maka saya mengambil studi kasus untuk 
 
-1. Menampilakn jumlah keseluruhan total provinsi yang terdampak covid
-2. Menampilkan jumlah keseluruhan provinsi dengan status active
-3. Menampilkan Jumlah kategori WHO Region Africa
+1. Menampilkan jumlah keseluruhan provinsi dengan status active
+
+# HASIL OUTPUT JUMLAH ACTIVE BERDASARKAN PROVINSI
+
+![image](https://user-images.githubusercontent.com/76142829/176446864-d46ee560-4ae4-4ef6-a104-0694a9eb032f.png)
+
